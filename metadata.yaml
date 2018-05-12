@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8890
     wikipedia: http://de.wikipedia.org/wiki/Wilhelm_Raabe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46411#Die-Chronik-der-Sperlingsgasse
 gutenberg_issued: '2014-07-25'
 gutenberg_type: Text
 identifiers:
