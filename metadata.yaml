@@ -1,0 +1,36 @@
+_repo: Die-Chronik-der-Sperlingsgasse_46411
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bosch, Ernst
+    gutenberg_agent_id: '43767'
+    url: http://www.gutenberg.org/2009/agents/43767
+covers:
+- cover_type: archival
+  image_path: 46411-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Raabe, Wilhelm
+    aliases:
+    - Corvinus, Jacob
+    - Raabe, Wilhelm Karl
+    - Corvinus, Jakob
+    birthdate: 1831
+    deathdate: 1910
+    gutenberg_agent_id: '8890'
+    url: http://www.gutenberg.org/2009/agents/8890
+    wikipedia: http://de.wikipedia.org/wiki/Wilhelm_Raabe
+description: ''
+gutenberg_issued: '2014-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46411'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction'
+- !lcc 'PT'
+title: Die Chronik der Sperlingsgasse
+url: http://www.gutenberg.org/ebooks/46411
